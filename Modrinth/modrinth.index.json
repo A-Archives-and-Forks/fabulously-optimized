@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "12.0.1",
+    "versionId": "12.0.2",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -35,19 +35,19 @@
             "fileSize": 87690
         },
         {
-            "path": "mods/CrashAssistant-fabric-1.21.5-1.21.11-1.10.28.jar",
+            "path": "mods/CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar",
             "hashes": {
-                "sha1": "55486b4cf80aa61653f12e9e244f484a041f7a53",
-                "sha512": "f304be01d24d6af17ac836ef15a99eb3c85ebf06097596c261a074af09f951ffd9ea286416506f6f5aec6cd624991d345c7c63fb1f5b29b5adc0b281a32608ac"
+                "sha1": "6a8ccfa38e3593d840922f1f920dde46261d2445",
+                "sha512": "979ffeedabd34012f4dc923ad373991d614a20f6d35fccb356f39b15b0e3c577225faa2a322b21a7073f5a989f9dcb9cf4707eaca2d0fcfac0f6c9239110b248"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ix1qq8Ux/versions/6jzxvt1B/CrashAssistant-fabric-1.21.5-1.21.11-1.10.28.jar"
+                "https://cdn.modrinth.com/data/ix1qq8Ux/versions/y79Db7a8/CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar"
             ],
-            "fileSize": 1218740
+            "fileSize": 1271180
         },
         {
             "path": "mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
@@ -530,19 +530,19 @@
             "fileSize": 80039
         },
         {
-            "path": "mods/polytone-1.21.11-5.4.3-fabric.jar",
+            "path": "mods/polytone-1.21.11-5.4.9-fabric.jar",
             "hashes": {
-                "sha1": "0aab2d057dbe24839b2926a542329e53984973c7",
-                "sha512": "fe5418230a540deac27fdacb7096fe6c62e641da237847ba088704c918090b0e1cb03e30457d4364c4ba548996c8df7e2d5a31c9b49059a05f91d30e01a04d6e"
+                "sha1": "e178ae12f964b1358883cd34d7ad55e2574419dd",
+                "sha512": "805aee31350acda3e830ecf330785bc80e5a51c26fc76ad8875076bb3c997baf2069d782b4e323805273aac2138ac9a049ca763e08d7b7733a39621bb3f95de5"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/z2tLkjKN/polytone-1.21.11-5.4.3-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/eWw2c59h/polytone-1.21.11-5.4.9-fabric.jar"
             ],
-            "fileSize": 1763682
+            "fileSize": 1775332
         },
         {
             "path": "mods/puzzle-fabric-2.3.0+1.21.11.jar",
@@ -590,19 +590,19 @@
             "fileSize": 198379
         },
         {
-            "path": "mods/skyboxify-2.3+1.21.11-fabric.jar",
+            "path": "mods/skyboxify-2.4+1.21.11-fabric.jar",
             "hashes": {
-                "sha1": "0d8e47ea2439c6d855f97e6d0f9c0b0c13516f10",
-                "sha512": "3828f70fcd13ca015b31beeedab502cdf754fc57ab3b6c0718691b825843876f19391b9d7aedec83423eb1752e6642c01750b570035fd5b52fa4ba9f7cf2e525"
+                "sha1": "180deda513a003ac59a6bc466178e9f2ec19f8be",
+                "sha512": "f973cf025401d4aa04fa0cc0c3ef3573df6232175fb0050b4e26a586a15c0269b31ce5fd1da57a16f2165651bb5d959613ee7abf53939afaed748f0392172bb3"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DWuwk8aA/versions/msQhwZIb/skyboxify-2.3%2B1.21.11-fabric.jar"
+                "https://cdn.modrinth.com/data/DWuwk8aA/versions/AR5ohzru/skyboxify-2.4%2B1.21.11-fabric.jar"
             ],
-            "fileSize": 413652
+            "fileSize": 415604
         },
         {
             "path": "mods/sodium-extra-fabric-0.8.3+mc1.21.11.jar",
@@ -665,19 +665,19 @@
             "fileSize": 1126948
         },
         {
-            "path": "mods/zoomify-2.15.1+1.21.11.jar",
+            "path": "mods/zoomify-2.15.2+1.21.11.jar",
             "hashes": {
-                "sha1": "7703e9914735142499bde794f192c5ff6e4b8dc7",
-                "sha512": "fb0888c8302d97ac6bb5daea5345ab80fbda3b537d9920fefab2b2d35b5bf7ac71a857fa64120de9693419abab4e85d4f25d98eb6bd9a19c778625eb110f4b28"
+                "sha1": "e1f738a9026e9f087d96861935f994b010b8131a",
+                "sha512": "de9d6097445175f6ef3e93475136fd67d29fc14fd26a6f19e63714efa6cf0961af5d270a95b65c4099a38517c3f91815fe4a1aa21b0acd84230398be2a6e3e24"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/YphN3CnL/zoomify-2.15.1%2B1.21.11.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/gI5KZI8V/zoomify-2.15.2%2B1.21.11.jar"
             ],
-            "fileSize": 874897
+            "fileSize": 873443
         },
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",

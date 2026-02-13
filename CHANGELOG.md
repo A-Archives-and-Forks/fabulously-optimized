@@ -5,6 +5,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.2 (2026-02-13)
+
+- Updated Crash Assistant, Polytone, Skyboxify, Zoomify
+- Enabled "Reduce resolution on macOS" on Sodium Extra (effective only on macOS)
+- Made some adjustments to Config Assistant wordings
+- Removed Zoomify-Controlify version limit for preventing crashes as it is no longer needed
+- Updated translations on 6 languages
+
 ### 12.0.1 (2026-02-07)
 
 - Updated Entity Model Features, e4mc, Fabric API, Fabric Language Kotlin, Lithium, Polytone, Remove Reloading Screen
