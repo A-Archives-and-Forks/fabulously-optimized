@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.4 (2026-02-22)
+
+- Updated MoreCulling, Polytone
+  - Entity Model Features update still skipped
+- Updated translations in 15 languages
+- Removed emoji from Crash Assistant buttons as it caused issues for some Mac users
+
 ### 12.0.3 (2026-02-17)
 
 - Updated Entity Texture Features, e4mc, Polytone, Skyboxify
