@@ -185,6 +185,14 @@ You crashed it, we fixed it!
 
 ## 1.21.10
 
+### 11.3.2 (2026-02-22)
+
+- Updated Entity Texture Features, Crash Assistant, e4mc, Skyboxify, Zoomify
+- Downgraded Entity Model Features due to some issues with resource packs
+- Updated translations in 15 languages
+  - Backported 12.0.3 changes
+- Removed emoji from Crash Assistant buttons as it caused issues for some Mac users
+
 ### 11.3.1 (2026-02-07)
 
 - Updated Entity Model Features, e4mc, Fabric Language Kotlin

@@ -18,7 +18,7 @@
     "modmenu.summaryTranslation.cull-less-leaves": "§6🔀§r Lá cây nhanh hơn\n§9🛠§8 Đổi mod, độ sâu của lá",
     "modmenu.summaryTranslation.debugify": "Sửa lỗi, vô hiệu hóa phép đo từ xa của Mojang\n§9🛠§8 Xem FO wiki để biết thêm thông tin",
     "modmenu.summaryTranslation.dynamic_fps": "Giảm FPS trong nền\n§9🛠§8 Đổi mod, khôi phục khi di chuột vào, ...",
-    "modmenu.summaryTranslation.e4mc_minecraft": "Mở thế giới cho Internet, như mạng LAN\n§9🛠§8 Sử dụng và quản lý thông qua \"<lang menu.shareToLan>\"",
+    "modmenu.summaryTranslation.e4mc": "Mở thế giới cho Internet, như mạng LAN\n§9🛠§8 Sử dụng và quản lý thông qua \"<lang menu.shareToLan>\"",
     "modmenu.summaryTranslation.enhancedblockentities": "Rương, bảng hiệu, giường, v.v. nhanh hơn.\n§9🛠§8 Chặn để cải thiện, phương thức",
     "modmenu.summaryTranslation.entity_model_features": "Mô hình thực thể tùy chỉnh của OptiFine\n§3§l📥§r§8🛠 (chỉ các tùy chọn nâng cao)",
     "modmenu.summaryTranslation.entity_texture_features": "Các thực thể ngẫu nhiên và phát sáng của OptiFine\n§3§l📥§r§9🛠§8 Mob ngẫu nhiên, phát sáng, chớp mắt, ...",
