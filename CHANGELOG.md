@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.5 (2026-02-24)
+
+- Updated Entity Model Features, Iris Shaders, Polytone, Sodium
+- Updated translations in 3 languages
+- Disabled Debugify's fix for MC-206540 as it adds a visual bug
+- Adjusted log priority in Crash Assistant
+
 ### 12.0.4 (2026-02-22)
 
 - Updated MoreCulling, Polytone
